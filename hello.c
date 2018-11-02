@@ -1,2 +1,2 @@
 hello world !!
-local wip1
+local WIP1
